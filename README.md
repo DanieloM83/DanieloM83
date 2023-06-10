@@ -50,8 +50,6 @@
 
 ## 📈 GitHub Stats
 
-<br>
-
 <div align="center">
     <a href="https://github.com/DanieloM83">
         <img align="top" src="https://github-readme-stats.vercel.app/api?username=danielom83&show_icons=true&line_height=27&count_private=true&title_color=d8644d&text_color=d8644d&icon_color=d8644d&bg_color=ffd29f" alt="Danielo's GitHub Stats" width=48%>
