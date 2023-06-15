@@ -1,16 +1,20 @@
 [![Danielo's GitHub Banner](img/Logo.png)](https://github.com/DanieloM83)
 <div align="left">
     <a href="#">
+        <img src="https://img.shields.io/badge/-YouTube-ffd29f?style=flat&logo=YouTube&logoColor=white&labelColor=red" alt="YouTube Badge">
+    </a>
+        <a href="#">
+        <img src="https://img.shields.io/badge/-Discord-ffd29f?style=flat&logo=Discord&logoColor=white&labelColor=red" alt="Discord Badge">
+    </a>
+    </a>
+        <a href="https://github.com/DanieloM83">
+        <img src="https://img.shields.io/badge/-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red" alt="GitHub Badge">
+    </a>
+    <a href="#">
         <img src="https://img.shields.io/badge/-Telegram-ffd29f?style=flat&logo=Telegram&logoColor=white&labelColor=red" alt="Telegram Badge">
     </a>
         <a href="#">
         <img src="https://img.shields.io/badge/-LinkedIn-ffd29f?style=flat&logo=LinkedIn&logoColor=white&labelColor=red" alt="LinkedIn Badge">
-    </a>
-    <a href="https://github.com/DanieloM83">
-        <img src="https://img.shields.io/badge/-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red" alt="GitHub Badge">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/-Discord-ffd29f?style=flat&logo=Discord&logoColor=white&labelColor=red" alt="Discord Badge">
     </a>
 </div>
 
@@ -37,12 +41,13 @@
 ![](https://img.shields.io/badge/Style-CSS-ffd29f?style=flat&logo=css3&logoColor=white&labelColor=red)
 
 
-![](https://img.shields.io/badge/Tools-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Tools-Photoshop-ffd29f?style=flat&logo=adobephotoshop&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Tools-Premiere%20Pro-ffd29f?style=flat&logo=adobepremierepro&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Tools-Postman-ffd29f?style=flat&logo=postman&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Tools-Git-ffd29f?style=flat&logo=Git&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Tools-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Art-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Art-Photoshop-ffd29f?style=flat&logo=adobephotoshop&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Art-Premiere%20Pro-ffd29f?style=flat&logo=adobepremierepro&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Testing-Postman-ffd29f?style=flat&logo=postman&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Testing-Jira-ffd29f?style=flat&logo=Jira&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/VCS-Git-ffd29f?style=flat&logo=Git&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/VCS-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red)
 <br>
 
 <br>
