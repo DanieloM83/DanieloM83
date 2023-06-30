@@ -34,11 +34,13 @@
 ![](https://img.shields.io/badge/Code-FastAPI-ffd29f?style=flat&logo=FastAPI&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Code-Django-ffd29f?style=flat&logo=Django&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Code-PyQT6-ffd29f?style=flat&logo=QT&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-SQLalchemy-ffd29f?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-MySQL-ffd29f?style=flat&logo=MySQL&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-SQLite-ffd29f?style=flat&logo=SQLite&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/DB-SQLalchemy-ffd29f?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/DB-MySQL-ffd29f?style=flat&logo=MySQL&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/DB-SQLite-ffd29f?style=flat&logo=SQLite&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-HTML-ffd29f?style=flat&logo=html5&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-CSS-ffd29f?style=flat&logo=css3&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Code-JavaScript-ffd29f?style=flat&logo=javascript&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Code-Three.js-ffd29f?style=flat&logo=three.js&logoColor=white&labelColor=red)
 
 
 ![](https://img.shields.io/badge/Art-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
