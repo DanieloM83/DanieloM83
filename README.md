@@ -1,5 +1,5 @@
 [![Danielo's GitHub Banner](img/Logo.png)](https://github.com/DanieloM83)
-<div align="left">
+<!-- <div align="left">
     <a href="#">
         <img src="https://img.shields.io/badge/-YouTube-ffd29f?style=flat&logo=YouTube&logoColor=white&labelColor=red" alt="YouTube Badge">
     </a>
@@ -16,11 +16,11 @@
         <a href="#">
         <img src="https://img.shields.io/badge/-LinkedIn-ffd29f?style=flat&logo=LinkedIn&logoColor=white&labelColor=red" alt="LinkedIn Badge">
     </a>
-</div>
+</div> -->
 
 ## 👋 Greetings!
 
-**I'm Daniel, a skilled Python backend developer, imaginative coder, and self-proclaimed 3D Modeler.**
+**I'm Daniel, a skilled fullstack developer, imaginative coder, and self-proclaimed 3D Modeler.**
 
 **My primary focus lies in creating versatile, practical, and user-friendly applications, with a particular emphasis on web and desktop platforms. By leveraging my expertise, I strive to develop software solutions that seamlessly blend functionality and aesthetics, making everyday tasks more efficient and enjoyable for users.**
 <br>
@@ -31,20 +31,23 @@
 ## 💼 Skills
 
 ![](https://img.shields.io/badge/Code-Python-ffd29f?style=flat&logo=Python&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-FastAPI-ffd29f?style=flat&logo=FastAPI&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-PyQT6-ffd29f?style=flat&logo=QT&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/DB-SQLalchemy-ffd29f?style=flat&logo=microsoftsqlserver&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/DB-PostgreSQL-ffd29f?style=flat&logo=PostgreSQL&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/DB-SQLite-ffd29f?style=flat&logo=SQLite&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Framework-FastAPI-ffd29f?style=flat&logo=FastAPI&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Validation-Pydantic-ffd29f?style=flat&logo=Pydantic&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/ORM-SQLalchemy-ffd29f?style=flat&logo=sqlalchemy&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Database-PostgreSQL-ffd29f?style=flat&logo=PostgreSQL&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Database-MongoDB-ffd29f?style=flat&logo=MongoDB&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Database-Redis-ffd29f?style=flat&logo=Redis&logoColor=white&labelColor=red)
+
+![](https://img.shields.io/badge/Code-JavaScript-ffd29f?style=flat&logo=javascript&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Code-TypeScript-ffd29f?style=flat&logo=typescript&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Framework-React-ffd29f?style=flat&logo=react&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/Packages-Yarn-ffd29f?style=flat&logo=yarn&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/PM-Yarn-ffd29f?style=flat&logo=yarn&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-HTML-ffd29f?style=flat&logo=html5&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-CSS-ffd29f?style=flat&logo=css3&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-JavaScript-ffd29f?style=flat&logo=javascript&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-Three.js-ffd29f?style=flat&logo=three.js&logoColor=white&labelColor=red)
 
-
-![](https://img.shields.io/badge/Art-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Art-Photoshop-ffd29f?style=flat&logo=adobephotoshop&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Art-Premiere%20Pro-ffd29f?style=flat&logo=adobepremierepro&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/3D-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
+![](https://img.shields.io/badge/3D-ReactFiber-ffd29f?style=flat&logo=three.js&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Testing-Postman-ffd29f?style=flat&logo=postman&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Testing-Jira-ffd29f?style=flat&logo=Jira&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/VCS-Git-ffd29f?style=flat&logo=Git&logoColor=white&labelColor=red)
