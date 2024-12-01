@@ -42,7 +42,6 @@
 ![](https://img.shields.io/badge/Code-TypeScript-ffd29f?style=flat&logo=typescript&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Framework-React-ffd29f?style=flat&logo=react&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Packages-Yarn-ffd29f?style=flat&logo=yarn&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/PM-Yarn-ffd29f?style=flat&logo=yarn&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-HTML-ffd29f?style=flat&logo=html5&logoColor=white&labelColor=red)
 ![](https://img.shields.io/badge/Style-CSS-ffd29f?style=flat&logo=css3&logoColor=white&labelColor=red)
 
