@@ -1,22 +1,4 @@
 [![Danielo's GitHub Banner](img/Logo.png)](https://github.com/DanieloM83)
-<!-- <div align="left">
-    <a href="#">
-        <img src="https://img.shields.io/badge/-YouTube-ffd29f?style=flat&logo=YouTube&logoColor=white&labelColor=red" alt="YouTube Badge">
-    </a>
-        <a href="#">
-        <img src="https://img.shields.io/badge/-Discord-ffd29f?style=flat&logo=Discord&logoColor=white&labelColor=red" alt="Discord Badge">
-    </a>
-    </a>
-        <a href="https://github.com/DanieloM83">
-        <img src="https://img.shields.io/badge/-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red" alt="GitHub Badge">
-    </a>
-    <a href="#">
-        <img src="https://img.shields.io/badge/-Telegram-ffd29f?style=flat&logo=Telegram&logoColor=white&labelColor=red" alt="Telegram Badge">
-    </a>
-        <a href="#">
-        <img src="https://img.shields.io/badge/-LinkedIn-ffd29f?style=flat&logo=LinkedIn&logoColor=white&labelColor=red" alt="LinkedIn Badge">
-    </a>
-</div> -->
 
 ## 👋 Greetings!
 
@@ -30,27 +12,45 @@
 
 ## 💼 Skills
 
-![](https://img.shields.io/badge/Code-Python-ffd29f?style=flat&logo=Python&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Framework-FastAPI-ffd29f?style=flat&logo=FastAPI&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Validation-Pydantic-ffd29f?style=flat&logo=Pydantic&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/ORM-SQLalchemy-ffd29f?style=flat&logo=sqlalchemy&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Database-PostgreSQL-ffd29f?style=flat&logo=PostgreSQL&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Database-MongoDB-ffd29f?style=flat&logo=MongoDB&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Database-Redis-ffd29f?style=flat&logo=Redis&logoColor=white&labelColor=red)
+<!-- Languages -->
+![](https://img.shields.io/badge/-Languages-D46B25?style=flat&labelColor=31323E&color=31323E)
+![](https://img.shields.io/badge/-Python_(highly_proficient)-D46B25?style=flat&logo=python&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-TypeScript-D46B25?style=flat&logo=typescript&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-JavaScript-D46B25?style=flat&logo=javascript&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-SQL-D46B25?style=flat&logo=sqlite&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-HTML%2FCSS-D46B25?style=flat&logo=html5&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-C%2B%2B-D46B25?style=flat&logo=c%2B%2B&logoColor=white&labelColor=D46B25&color=D46B25)
+<br>
 
-![](https://img.shields.io/badge/Code-JavaScript-ffd29f?style=flat&logo=javascript&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Code-TypeScript-ffd29f?style=flat&logo=typescript&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Framework-React-ffd29f?style=flat&logo=react&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Packages-Yarn-ffd29f?style=flat&logo=yarn&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Style-HTML-ffd29f?style=flat&logo=html5&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Style-CSS-ffd29f?style=flat&logo=css3&logoColor=white&labelColor=red)
+<!-- AI & Agentic Systems -->
+![](https://img.shields.io/badge/-AI_%26_Agentic_Systems-D46B25?style=flat&labelColor=31323E&color=31323E)
+![](https://img.shields.io/badge/-LangChain-D46B25?style=flat&logo=langchain&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-LangGraph-D46B25?style=flat&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-LangSmith-D46B25?style=flat&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-OpenAI_API-D46B25?style=flat&logo=openai&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Model_Context_Protocol_(MCP)-D46B25?style=flat&labelColor=D46B25&color=D46B25)
+<br>
 
-![](https://img.shields.io/badge/3D-Blender-ffd29f?style=flat&logo=Blender&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/3D-ReactFiber-ffd29f?style=flat&logo=three.js&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Testing-Postman-ffd29f?style=flat&logo=postman&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/Testing-Jira-ffd29f?style=flat&logo=Jira&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/VCS-Git-ffd29f?style=flat&logo=Git&logoColor=white&labelColor=red)
-![](https://img.shields.io/badge/VCS-GitHub-ffd29f?style=flat&logo=GitHub&logoColor=white&labelColor=red)
+<!-- Frameworks & Libraries -->
+![](https://img.shields.io/badge/-Frameworks_%26_Libraries-D46B25?style=flat&labelColor=31323E&color=31323E)
+![](https://img.shields.io/badge/-FastAPI-D46B25?style=flat&logo=fastapi&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-SQLAlchemy-D46B25?style=flat&logo=sqlalchemy&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Pydantic-D46B25?style=flat&logo=pydantic&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Pytest-D46B25?style=flat&logo=pytest&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-React-D46B25?style=flat&logo=react&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Redux-D46B25?style=flat&logo=redux&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-PostgreSQL-D46B25?style=flat&logo=postgresql&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Redis-D46B25?style=flat&logo=redis&logoColor=white&labelColor=D46B25&color=D46B25)
+<br>
+
+<!-- Tools & Infrastructure -->
+![](https://img.shields.io/badge/-Tools_%26_Infrastructure-D46B25?style=flat&labelColor=31323E&color=31323E)
+![](https://img.shields.io/badge/-Docker-D46B25?style=flat&logo=docker&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Docker_Compose-D46B25?style=flat&logo=docker&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-AWS_(EC2,_S3,_RDS)-D46B25?style=flat&logo=amazonaws&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-Nginx-D46B25?style=flat&logo=nginx&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-GitHub_Actions-D46B25?style=flat&logo=githubactions&logoColor=white&labelColor=D46B25&color=D46B25)
+![](https://img.shields.io/badge/-RabbitMQ-D46B25?style=flat&logo=rabbitmq&logoColor=white&labelColor=D46B25&color=D46B25)
 <br>
 
 <br>
@@ -59,12 +59,8 @@
 ## 📈 GitHub Stats
 
 <div align="center">
-    <a href="https://github.com/DanieloM83">
-        <img align="top" src="https://github-readme-stats.vercel.app/api?username=danielom83&show_icons=true&line_height=27&count_private=true&title_color=d8644d&text_color=d8644d&icon_color=d8644d&bg_color=ffd29f" alt="Danielo's GitHub Stats" width=48%>
-    </a>
-    <a href="https://github.com/DanieloM83">
-        <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielom83&show_icons=true&title_color=d8644d&icon_color=f6c32c&text_color=d8644d&bg_color=ffd29f&count_private=true&layout=compact" alt="Top Used Languages" width=48%>
-    </a>
+    <img align="top" src="https://github-stats-extended.vercel.app/api?username=DanieloM83&rank_icon=github&custom_title=Danielo%27s%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=darcula" alt="Danielo's GitHub Stats" width=59%>
+    <img align="top" src="https://github-stats-extended.vercel.app/api/top-langs?username=DanieloM83&langs_count=4&theme=darcula" alt="Top Used Languages" width=30%>
 </div>
 
 ---
