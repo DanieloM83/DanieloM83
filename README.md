@@ -10,9 +10,9 @@
 
 ## 👋 Greetings!
 
-**I'm Daniel, a skilled fullstack developer, imaginative coder, and self-proclaimed 3D Modeler.**
+**I'm Daniel, an AI-automation engineer, full-stack developer, and imaginative coder.**
 
-**My primary focus lies in creating versatile, practical, and user-friendly applications, with a particular emphasis on web and desktop platforms. By leveraging my expertise, I strive to develop software solutions that seamlessly blend functionality and aesthetics, making everyday tasks more efficient and enjoyable for users.**
+**My primary focus lies in architecting intelligent, user-friendly applications that seamlessly integrate AI capabilities into web and desktop platforms. By combining robust full-stack development with advanced automation, I build software solutions that not only look great but actively streamline workflows, making everyday tasks smarter and more efficient.**
 <br>
 
 <br>
